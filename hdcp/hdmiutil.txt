@@ -1,0 +1,5 @@
+tar xvf hdmiutil.tar
+
+chmod +x hdmiutil
+
+./hdmiutil FW29050_20080205_dse_hex.sihex
